@@ -1,0 +1,58 @@
+*{
+    box-sizing:border-box;
+    padding: 0;
+    margin: 0;
+    text-align: center;
+}
+#antraste{
+    margin-top:270px;
+    font-size:60px;
+    font-family: Tahoma;
+    text-shadow: 2px 2px black;
+    color: white;
+  
+}
+
+#pradzia{
+    width:100%;
+    height:800px;
+    background-image:url(fotoparatas/dakar.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    box-shadow: none;
+    color: white;
+}
+div{
+    width:80%;
+    height: auto;
+    margin: 20px auto;
+    padding:20px;
+    box-shadow: 5px 5px 5px grey; 
+}
+img{
+    padding: 5px;
+    width: 450px;
+    height:350px;
+    margin: 20px;
+    box-shadow: 2px 2px 5px;
+}
+body{
+     background-color: lightyellow;
+}
+    
+    
+h1{
+    color: black;
+    font-family:Karla;
+}
+p{
+    font-family: Verdana;
+    color: cornflowerblue;
+    text-align: justify;
+}
+.l{
+    width:60px;
+    height:45px;
+}
+
